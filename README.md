@@ -1,1 +1,3 @@
-# RNA-e-Deep-Learning---CESAR-School-2024.01
+# Thiago Brito de Andrade Tenório
+# tbat@cesar.school
+
